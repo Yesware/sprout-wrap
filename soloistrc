@@ -1,7 +1,8 @@
 recipes:
   - meta::yw_ruby_development
 node_attributes:
-  workspace_directory: yesware
+  sprout-osx-base:
+    workspace_directory: yesware
   git_projects:
     -
       - chef-repo
