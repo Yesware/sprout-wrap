@@ -8,6 +8,7 @@
 # WRITEIT Tools repo, symlinks to ~/bin, PATH to ~/bin
 # WRITEIT Heroku toolbelt
 
+include_recipe "sprout-osx-base::homebrew"
 include_recipe "pivotal_workstation::git"
 include_recipe "pivotal_workstation::git_projects"
 include_recipe "yw_workstation::yw_tools"
