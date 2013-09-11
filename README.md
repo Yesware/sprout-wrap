@@ -4,19 +4,16 @@
 
 Prepares a Mac running OS X Mountain Lion for Ruby development using [soloist](https://github.com/mkocher/soloist) and [Sprout](https://github.com/pivotal-sprout/sprout)
 
-## Installation
+## Installation -- MOVE TO WIKI!!!
 
-### 1. Install XCode
+### 1. Install XCode and XCode CLI
 
-[![Xcode - Apple](http://r.mzstatic.com/images/web/linkmaker/badge_macappstore-lrg.gif)](https://itunes.apple.com/us/app/xcode/id497799835?mt=12&uo=4)
-
-### 2. Install Command Line Tools
-  
-  XCode > Preferences > Downloads
+S3 links?
+sudo xcodebuild -license
   
 ### 3. Clone this project
   
-    git clone https://github.com/pivotal-sprout/sprout-wrap.git
+    git clone https://github.com/yesware/sprout-wrap.git
     cd sprout-wrap
   
 ### 4. Install soloist & and other required gems
