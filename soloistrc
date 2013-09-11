@@ -4,8 +4,8 @@ node_attributes:
   workspace_directory: yesware
   git_projects:
     -
-      - sprout-wrap
-      - git@github-yesware:Yesware/sprout-wrap.git
-    -
       - chef-repo
+      - git@github-yesware:Yesware/chef-repo.git
+    -
+      - dev-chef-repo
       - git@github-yesware:Yesware/chef-repo.git
