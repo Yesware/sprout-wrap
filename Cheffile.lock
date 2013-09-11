@@ -72,6 +72,11 @@ PATH
       sprout-osx-apps (>= 0.0.0)
       sprout-osx-settings (>= 0.0.0)
 
+PATH
+  remote: site-cookbooks/yw_workstation
+  specs:
+    yw_workstation (1.0.0)
+
 DEPENDENCIES
   meta (>= 0)
   osx (>= 0)
@@ -80,4 +85,5 @@ DEPENDENCIES
   sprout-osx-base (>= 0)
   sprout-osx-settings (>= 0)
   sprout-pivotal (>= 0)
+  yw_workstation (>= 0)
 
