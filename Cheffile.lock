@@ -76,6 +76,8 @@ PATH
   remote: site-cookbooks/yw_workstation
   specs:
     yw_workstation (1.0.0)
+      pivotal_workstation (>= 0.0.0)
+      sprout-osx-apps (>= 0.0.0)
 
 DEPENDENCIES
   meta (>= 0)
