@@ -9,29 +9,29 @@ cookbook 'yw_workstation',
 cookbook 'sprout-osx-base',
   :git => 'git://github.com/Yesware/sprout.git',
   :path => 'sprout-osx-base',
-  :ref => 'mk-homebrew-wo-bashit'
+  :ref => 'yesware'
 
 cookbook 'pivotal_workstation',
   :git => 'git://github.com/Yesware/sprout.git',
   :path => 'pivotal_workstation',
-  :ref => 'mk-homebrew-wo-bashit'
+  :ref => 'yesware'
 
 cookbook 'sprout-osx-apps',
   :git => 'git://github.com/Yesware/sprout.git',
   :path => 'sprout-osx-apps',
-  :ref => 'mk-homebrew-wo-bashit'
+  :ref => 'yesware'
 
 cookbook 'sprout-osx-settings',
   :git => 'git://github.com/Yesware/sprout.git',
   :path => 'sprout-osx-settings',
-  :ref => 'mk-homebrew-wo-bashit'
+  :ref => 'yesware'
 
 cookbook 'sprout-pivotal',
   :git => 'git://github.com/Yesware/sprout.git',
   :path => 'sprout-pivotal',
-  :ref => 'mk-homebrew-wo-bashit'
+  :ref => 'yesware'
 
 cookbook 'osx',
   :git => 'git://github.com/Yesware/sprout.git',
   :path => 'osx',
-  :ref => 'mk-homebrew-wo-bashit'
+  :ref => 'yesware'

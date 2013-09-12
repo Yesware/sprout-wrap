@@ -6,16 +6,16 @@ SITE
 GIT
   remote: git://github.com/Yesware/sprout.git
   path: osx
-  ref: mk-homebrew-wo-bashit
-  sha: b4c83d047a82c0bdbaaadef83dfd0a3fad9be3fc
+  ref: yesware
+  sha: 69816e1528e029bf16cbff5a78fb16ca4c82dbb8
   specs:
     osx (0.1.0)
 
 GIT
   remote: git://github.com/Yesware/sprout.git
   path: pivotal_workstation
-  ref: mk-homebrew-wo-bashit
-  sha: b4c83d047a82c0bdbaaadef83dfd0a3fad9be3fc
+  ref: yesware
+  sha: 69816e1528e029bf16cbff5a78fb16ca4c82dbb8
   specs:
     pivotal_workstation (1.0.0)
       dmg (>= 0.0.0)
@@ -28,8 +28,8 @@ GIT
 GIT
   remote: git://github.com/Yesware/sprout.git
   path: sprout-osx-apps
-  ref: mk-homebrew-wo-bashit
-  sha: b4c83d047a82c0bdbaaadef83dfd0a3fad9be3fc
+  ref: yesware
+  sha: 69816e1528e029bf16cbff5a78fb16ca4c82dbb8
   specs:
     sprout-osx-apps (0.1.0)
       dmg (>= 0.0.0)
@@ -39,16 +39,16 @@ GIT
 GIT
   remote: git://github.com/Yesware/sprout.git
   path: sprout-osx-base
-  ref: mk-homebrew-wo-bashit
-  sha: b4c83d047a82c0bdbaaadef83dfd0a3fad9be3fc
+  ref: yesware
+  sha: 69816e1528e029bf16cbff5a78fb16ca4c82dbb8
   specs:
     sprout-osx-base (0.1.0)
 
 GIT
   remote: git://github.com/Yesware/sprout.git
   path: sprout-osx-settings
-  ref: mk-homebrew-wo-bashit
-  sha: b4c83d047a82c0bdbaaadef83dfd0a3fad9be3fc
+  ref: yesware
+  sha: 69816e1528e029bf16cbff5a78fb16ca4c82dbb8
   specs:
     sprout-osx-settings (0.1.0)
       osx (>= 0.0.0)
@@ -57,8 +57,8 @@ GIT
 GIT
   remote: git://github.com/Yesware/sprout.git
   path: sprout-pivotal
-  ref: mk-homebrew-wo-bashit
-  sha: b4c83d047a82c0bdbaaadef83dfd0a3fad9be3fc
+  ref: yesware
+  sha: 69816e1528e029bf16cbff5a78fb16ca4c82dbb8
   specs:
     sprout-pivotal (0.1.0)
       dmg (>= 0.0.0)
